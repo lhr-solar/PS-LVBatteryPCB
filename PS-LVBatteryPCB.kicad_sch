@@ -1737,7 +1737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Keystone 3568:FUSE_3568"
+		(property "Footprint" "Fuse:Fuseholder_Blade_Mini_Keystone_3568"
 			(at 133.35 80.01 0)
 			(effects
 				(font
@@ -2000,7 +2000,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Keystone 3568:KEYSTONE_8191-6"
+		(property "Footprint" "UTSVT_Connectors:KEYSTONE_8191-SEMS"
 			(at 153.67 59.69 0)
 			(effects
 				(font
