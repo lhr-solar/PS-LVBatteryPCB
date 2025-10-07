@@ -1,3 +1,4 @@
 [submodule "KiCAD-Sharepoint"]
 	path = KiCAD-Sharepoint
 	url = git@github.com:lhr-solar/KiCAD-Sharepoint.git
+	branch = lv_batt
