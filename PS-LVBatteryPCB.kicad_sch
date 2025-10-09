@@ -854,7 +854,8 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse")
-		(at 134.62 82.55 90)
+		(at 134.62 82.55 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
