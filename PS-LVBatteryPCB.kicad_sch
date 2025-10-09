@@ -810,7 +810,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Connectors:Molex_Nano-Fit_105309-xx02_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
 			(at 153.67 101.6 0)
 			(effects
 				(font
@@ -946,7 +946,7 @@
 				)
 			)
 		)
-		(property "Footprint" "UTSVT_Connectors:AMASS_XT30PW-M_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "UTSVT_Connectors:AMASS_XT30UPB-M_1x02_P5.0mm_Vertical"
 			(at 110.49 76.2 0)
 			(effects
 				(font
@@ -1154,7 +1154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "UTSVT_Connectors:Molex_Nano-Fit_105309-xx02_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
 			(at 130.81 101.6 0)
 			(effects
 				(font
