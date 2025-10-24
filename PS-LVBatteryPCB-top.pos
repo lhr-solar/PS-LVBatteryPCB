@@ -1,0 +1,13 @@
+### Footprint positions - created on 2025-10-24T17:46:01-0500 ###
+### Printed by KiCad version 9.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                                                  PosX       PosY       Rot  Side
+F1        12_A       Fuseholder_Blade_Mini_Keystone_3568                  198.6500   -84.5500  180.0000  top
+J1        NTC_01     Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal   205.7000   -73.5000    0.0000  top
+J2        NTC_02     Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal   178.5500   -85.0500   90.0000  top
+J3        NTC_OUT    Molex_Nano-Fit_105309-xx03_1x03_P2.50mm_Vertical     199.3000   -76.9500  -90.0000  top
+J4        SUPP+      KEYSTONE_8191-SEMS                                   216.6000   -82.4500   90.0000  top
+J5        SUPP_GND   KEYSTONE_8191-SEMS                                   171.1000   -82.4500   90.0000  top
+J6        SUPP_FUSE  AMASS_XT30UPB-M_1x02_P5.0mm_Vertical                 188.9500   -76.0500   90.0000  top
+## End
